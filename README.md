@@ -7,13 +7,13 @@ This app allows users to dynamically generate RGB colors using sliders and copy 
 
 ## 🚀 Live Preview
 
-[Click here to try the RGB Color Generator](#)
+[Click here to try the RGB Color Generator](https://shivam18004.github.io/RGB_Color_Generator/)
 
 ---
 
 ## 📸 Screenshots
 
-![RGB Color Generator Screenshot](screenshot.png)
+![RGB Color Generator Screenshot](https://github.com/shIVam18004/RGB_Color_Generator/blob/main/RGB_color_generator.png)
 
 ---
 
@@ -68,4 +68,4 @@ Building this project strengthened my understanding of:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/rgb-color-generator.git
+   git clone https://github.com/shIVam18004/RGB_Color_Generator.git
